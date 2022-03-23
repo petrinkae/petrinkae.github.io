@@ -5,6 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Variables
+
+foo: &name "K Petrin"
+foo: &email "mailto:petrinkae@pm.me"
+foo: &twit "https://twitter.com/petrinkae"
+foo: &git "https://github.com/petrinkae"
+foo: &obvs "https://observablehq.com/@petrinkae"
+
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
@@ -12,15 +20,15 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "K Petrin"
-title_separator          : "-"
+title                    : *name
+title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "K Petrin"
-description              : "Portfolio for data journalist Kae Petrin.."
+name                     : *name
+description              : "Portfolio for data journalist Kae Petrin."
 url                      : "http://petrinkae.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +87,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : petrinkae
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -102,7 +110,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "K Petrin"
+  name             : *name
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data journalist."
   location         : "Somewhere"
@@ -110,19 +118,19 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:petrinkae@pm.me"
+      url: *email
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/petrinkae"
+      url: *twit
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/petrinkae"
+      url: *git
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,13 +140,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: *twit
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: *git
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -148,7 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Observable"
+      icon: "far fa-fw fa-dot-circle"
+      url: *obvs
 
 # Reading Files
 include:
@@ -283,8 +293,8 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
