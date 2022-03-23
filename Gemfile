@@ -8,7 +8,8 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.0"
+# gem "jekyll", "~> 3.9.0"
+gem "github-pages", "~> 223", group: :jekyll_plugins
 
 # Theme changed from minima to minimal mistakes.
 gem "minimal-mistakes-jekyll"
