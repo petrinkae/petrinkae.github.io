@@ -1,5 +1,4 @@
 ---
-layout: splash
 excerpt: "K Petrin - Data & Graphics Reporter"
 title: ""
 header:
