@@ -8,8 +8,8 @@ main:
     url: /speaking/
   # - title: "Resume"
   #   url: /resume/
-  # - title: "Writing"
-  #   url: /writing/
+  - title: "Writing"
+    url: /writing/
   # - title: "Data Viz"
   #   url: /viz/
 

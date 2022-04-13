@@ -10,8 +10,8 @@ permalink: /activities/
 <div class="activities">
 {% for activity in site.data.activities %}
     {% if activity.type == "Leadership" %}
-        <h3> {{ activity.organization }}</h3>
-        <p>{{ activity.title }} <em>{{ activity.start }} - {{ activity.end }}</em></p>
+        <h3>{{ activity.title }}</h3>
+        <h6>{{ activity.organization }} <em>{{ activity.start }} - {{ activity.end }}</em></h6>
     {% endif %}
 {% endfor %}
 </div>
@@ -21,8 +21,8 @@ permalink: /activities/
 <div class="activities">
 {% for activity in site.data.activities %}
     {% if activity.type == "Teaching" %}
-        <h3> {{ activity.organization }}</h3>
-        <p>{{ activity.title }} <em>{{ activity.start }} - {{ activity.end }}</em></p>
+        <h3>{{ activity.title }}</h3>
+        <h6>{{ activity.organization }} <em>{{ activity.start }} - {{ activity.end }}</em></h6>
     {% endif %}
 {% endfor %}
 </div>
@@ -32,8 +32,8 @@ permalink: /activities/
 <div class="activities">
 {% for activity in site.data.activities %}
     {% if activity.type == "Professional Development" %}
-        <h3> {{ activity.organization }}</h3>
-        <p>{{ activity.title }} <em>{{ activity.start }} - {{ activity.end }}</em></p>
+        <h3>{{ activity.title }}</h3>
+        <h6>{{ activity.organization }} <em>{{ activity.start }} - {{ activity.end }}</em></h6>
     {% endif %}
 {% endfor %}
 </div>
