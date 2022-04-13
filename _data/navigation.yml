@@ -4,10 +4,14 @@ main:
     url: https://www.clippings.me/petrinkae
   - title: "Activities"
     url: /activities/
+  - title: "Speaking"
+    url: /speaking/
   # - title: "Resume"
   #   url: /resume/
-  # - title: "Contact"
-  #   url: /contact/
+  # - title: "Writing"
+  #   url: /writing/
+  # - title: "Data Viz"
+  #   url: /viz/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

@@ -8,7 +8,8 @@
 # Variables
 
 foo: &name "K Petrin"
-foo: &email "mailto:petrinkae@pm.me"
+foo: &email_to "mailto:petrinkae@pm.me"
+foo: &email "petrinkae@pm.me"
 foo: &twit "https://twitter.com/petrinkae"
 foo: &git "https://github.com/petrinkae"
 foo: &obvs "https://observablehq.com/@petrinkae"
@@ -107,18 +108,16 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : *name
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/headshot.png"
   bio              : "Data journalist."
-  location         : "Somewhere"
-  email            :
+#  location         : "Somewhere"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: *email
+      url: *email_to
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -294,7 +293,7 @@ defaults:
     values:
       layout: splash
       classes: wide
-      author_profile: false
+      author_profile: true
       read_time: true
       comments: # true
       share: false

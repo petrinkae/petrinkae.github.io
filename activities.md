@@ -7,36 +7,33 @@ permalink: /activities/
 
 ## Leadership
 
-<ul>
+<div class="activities">
 {% for activity in site.data.activities %}
     {% if activity.type == "Leadership" %}
-        <li>
-            {{ activity.organization }} - {{ activity.title }}
-        </li>
+        <h3> {{ activity.organization }}</h3>
+        <p>{{ activity.title }} <em>{{ activity.start }} - {{ activity.end }}</em></p>
     {% endif %}
 {% endfor %}
-</ul>
+</div>
 
 ## Teaching
 
-<ul>
+<div class="activities">
 {% for activity in site.data.activities %}
     {% if activity.type == "Teaching" %}
-        <li>
-            {{ activity.organization }} - {{ activity.title }}
-        </li>
+        <h3> {{ activity.organization }}</h3>
+        <p>{{ activity.title }} <em>{{ activity.start }} - {{ activity.end }}</em></p>
     {% endif %}
 {% endfor %}
-</ul>
+</div>
 
 ## Professional Development
 
-<ul>
+<div class="activities">
 {% for activity in site.data.activities %}
     {% if activity.type == "Professional Development" %}
-        <li>
-            {{ activity.organization }} - {{ activity.title }}
-        </li>
+        <h3> {{ activity.organization }}</h3>
+        <p>{{ activity.title }} <em>{{ activity.start }} - {{ activity.end }}</em></p>
     {% endif %}
 {% endfor %}
-</ul>
+</div>

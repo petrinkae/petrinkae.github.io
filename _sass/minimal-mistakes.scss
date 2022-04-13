@@ -38,3 +38,30 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+.activities {
+
+    h3 {
+        font-size: 20px;
+    }
+
+    h4 {
+        font-size: 17px;
+        color: $base01;
+        margin: 0;
+    }
+
+    em {
+        font-size: 14px;
+        text-transform: uppercase;
+        color: $muted-text-color;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    a {
+        display: inline;
+    }
+}
