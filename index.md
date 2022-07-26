@@ -1,5 +1,5 @@
 ---
-excerpt: "K Petrin - Data & Graphics Reporter"
+excerpt: ""
 title: ""
 header:
   overlay_color: "#333"
