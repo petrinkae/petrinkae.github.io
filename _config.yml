@@ -12,7 +12,7 @@ foo: &email_to "mailto:petrinkae@pm.me"
 foo: &email "petrinkae@pm.me"
 foo: &twit "https://twitter.com/petrinkae"
 foo: &git "https://github.com/petrinkae"
-foo: &obvs "https://observablehq.com/@petrinkae"
+# foo: &obvs "https://observablehq.com/@petrinkae"
 
 # Theme Settings
 #
@@ -155,9 +155,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Observable"
-      icon: "far fa-fw fa-dot-circle"
-      url: *obvs
+    # - label: "Observable"
+    #   icon: "far fa-fw fa-dot-circle"
+    #   url: *obvs
 
 # Reading Files
 include:
