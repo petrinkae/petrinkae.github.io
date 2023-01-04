@@ -1,15 +1,17 @@
-type,organization,title,start,end
-Leadership,Chalkbeat Guild,Union Leadership Committee,Apr 2022,Present
-Leadership,Trans Journalists Association,Founding Member,June 2020,Present
-Professional Development,Investigative Reporters & Editors,Eric B. Sager Fellowship - DBEI Symposium,October 2022,
-Professional Development,Investigative Reporters & Editors,Holly Whisenhunt Stephen Fellowship - Data Journalism Bootcamp,December 2019,
-Teaching,St. Louis Public Radio,"<a href=""https://current.org/2019/08/in-st-louis-a-mini-j-school-makes-public-radio-listeners-advocates-for-real-news/"">Mini J School</a> Curriculum Cobuilder",Nov 2018,May 2019
-Professional Development,Investigative Reporters & Editors,Total Newsroom Training,March 2018,
-Teaching,Society for Professional Journalists,#Press4Education Volunteer,February 2018,Present
-Leadership,Society for Professional Journalists - St. Louis Pro Chapter,Secretary,May 2017,Present
-Teaching,Society for Professional Journalists - St. Louis Pro Chapter,Student Boot Camp Co-Organizer,May 2017,May 2022
-Professional Development,LaunchCode,LC101 Intensitve Boot Camp,May 2017,December 2017
-Professional Development,Society for Professional Journalists,Ted Scripps Leadership Institute,April 2017,
-Teaching,Nine Network of Public Media's NineLab,Community Media Intern,May 2016,July 2016
-Professional Development,Merle Kling,Literary Journalism Fellow,March 2014,May 2016
-Teaching,Washington University in St. Louis,Writing Center & Cornerstone Peer Tutor,August 2013,May 2016
+show_flag,type,organization,title,start,end
+TRUE,Professional Development,Investigative Reporters & Editors,Eric B. Sager Fellowship - DBEI Symposium,October 2022,
+TRUE,Teaching,Investigative Reporters & Editors,Google Scraping Workshop,September 2022,
+TRUE,Leadership,Chalkbeat Guild,Union Leadership Committee,Apr 2022,Present
+TRUE,Professional Development,Education Writers Association,EWA Caucus on School Finance,January 2022,December 2022
+TRUE,Leadership,Trans Journalists Association,Founding Member,June 2020,Present
+TRUE,Professional Development,Investigative Reporters & Editors,Holly Whisenhunt Stephen Fellowship - Data Journalism Bootcamp,December 2019,
+TRUE,Teaching,St. Louis Public Radio,"<a href=""https://current.org/2019/08/in-st-louis-a-mini-j-school-makes-public-radio-listeners-advocates-for-real-news/"">Mini J School</a> Curriculum Cobuilder",Nov 2018,May 2019
+TRUE,Professional Development,Investigative Reporters & Editors,Total Newsroom Training,March 2018,
+FALSE,Teaching,Society for Professional Journalists,#Press4Education Volunteer,February 2018,Present
+TRUE,Leadership,Society for Professional Journalists - St. Louis Pro Chapter,Secretary,May 2017,Present
+TRUE,Teaching,Society for Professional Journalists - St. Louis Pro Chapter,Student Boot Camp Co-Organizer,May 2017,May 2022
+TRUE,Professional Development,LaunchCode,LC101 Intensitve Boot Camp,May 2017,December 2017
+TRUE,Professional Development,Society for Professional Journalists,Ted Scripps Leadership Institute,April 2017,
+TRUE,Teaching,Nine Network of Public Media's NineLab,Community Media Intern,May 2016,July 2016
+TRUE,Professional Development,Merle Kling,Literary Journalism Fellow,March 2014,May 2016
+TRUE,Teaching,Washington University in St. Louis,Writing Center & Cornerstone Peer Tutor,August 2013,May 2016

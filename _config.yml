@@ -12,6 +12,7 @@ foo: &email_to "mailto:petrinkae@pm.me"
 foo: &email "petrinkae@pm.me"
 foo: &twit "https://twitter.com/petrinkae"
 foo: &git "https://github.com/petrinkae"
+# foo: "https://tech.lgbt/@petrinkae"
 # foo: &obvs "https://observablehq.com/@petrinkae"
 
 # Theme Settings
