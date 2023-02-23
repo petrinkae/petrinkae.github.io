@@ -1,6 +1,7 @@
 show_flag,title,type,event,year,organization,notes,url,hidden_notes
+TRUE,Intermediate/Advanced Excel and Intro to SQL,Workshop,Diving Into Data Workshop 2023,2023,"<a href=""https://ewa.org/events/upcoming-events/diving-into-data-workshop-2023"">Education Writers' Association</a>",Developed and co-taught a weekend course in Excel and SQL.,,
 TRUE,Editors' Roundtable,Panel,Higher Ed Media Fellowship CTE Symposium,2022,"<a href=""https://citizensandscholars.org/fellowships/for-business-policy-leaders/higher-ed-media-fellowship/"">Institute for Citizens & Scholars</a>",,,
-TRUE,Intro to Solutions Journalism,Workshop,Summer 2022 Solutions Journalism ,2022,"<a href=""https://www.camplilac.org/"">Camp Lilac</a> through the Cleveland Foundation",Developed and taught a week-long crash course. It sought to empower teenagers to write about problems and solutions in their communities. Publications forthcoming!,,
+TRUE,Intro to Solutions Journalism,Workshop,Summer 2022 Solutions Journalism ,2022,"<a href=""https://www.camplilac.org/"">Camp Lilac</a> through the Cleveland Foundation",Developed and taught a week-long crash course. It sought to empower teenagers to write about problems and solutions in their communities.,,
 TRUE,"Covering trans stories with cultural awareness, evidence, and data",Presentation,SRCCON 2022,2022,OpenNews,,,
 TRUE,First Python Notebook,Workshop,National Institute for Computer-Assisted Reporting Conference,2022,Investigative Reporters & Editors,"Wrote <a href=""https://palewi.re/docs/first-python-notebook/compute.html"">Chapter 12</a> and taught 1/3 of day-long course.",https://palewi.re/docs/first-python-notebook/index.html,chapter 12
 TRUE,Investigating LGBTQ+ Issues with Public Records,Panel,FOIAFest,2022,Chicago Headline Club,,,
