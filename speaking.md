@@ -9,7 +9,7 @@ permalink: /speaking/
 
 <div class="activities">
 {% for pub in site.data.speaking %}
-    {% if pub.type == "Workshop" %}
+    {% if pub.type == "Workshop" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
@@ -26,7 +26,7 @@ permalink: /speaking/
 
 <div class="activities">
 {% for pub in site.data.speaking %}
-    {% if pub.type == "Presentation" %}
+    {% if pub.type == "Presentation" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
@@ -43,7 +43,7 @@ permalink: /speaking/
 
 <div class="activities">
 {% for pub in site.data.speaking %}
-    {% if pub.type == "Panel" %}
+    {% if pub.type == "Panel" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
@@ -60,7 +60,7 @@ permalink: /speaking/
 
 <div class="activities">
 {% for pub in site.data.speaking %}
-    {% if pub.type == "Moderation" %}
+    {% if pub.type == "Moderation" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}

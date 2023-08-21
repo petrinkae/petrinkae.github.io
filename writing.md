@@ -9,7 +9,7 @@ permalink: /writing/
 
 <div class="activities">
 {% for pub in site.data.writing %}
-    {% if pub.type == "Documentation" %}
+    {% if pub.type == "Documentation" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
@@ -26,7 +26,7 @@ permalink: /writing/
 
 <div class="activities">
 {% for pub in site.data.writing %}
-    {% if pub.type == "Best Practices" %}
+    {% if pub.type == "Best Practices" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
@@ -43,7 +43,7 @@ permalink: /writing/
 
 <div class="activities">
 {% for pub in site.data.writing %}
-    {% if pub.type == "Guide" %}
+    {% if pub.type == "Guide" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}

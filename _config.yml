@@ -11,6 +11,7 @@ foo: &name "K Petrin"
 foo: &email_to "mailto:petrinkae@pm.me"
 foo: &email "petrinkae@pm.me"
 foo: &git "https://github.com/petrinkae"
+foo: &linkedin "https://linkedin.com/in/petrinkae"
 # foo: "https://tech.lgbt/@petrinkae"
 # foo: &obvs "https://observablehq.com/@petrinkae"
 
@@ -130,22 +131,28 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *git
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: *linkedin
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-# Site Footer
+# Site Footer follow
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: *twit
+      # url: *twit
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: *git
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: *linkedin
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
