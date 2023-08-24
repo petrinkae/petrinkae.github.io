@@ -14,3 +14,16 @@ I present on queer and trans coverage best practices, data reporting and visuali
 Previously, as a digital reporter at [St. Louis Public Radio](https://news.stlpublicradio.org/people/kae-m-petrin), I created graphics, built newsroom-wide tools, and covered data-driven stories across beats. Before that, I was an editorial assistant at [St. Louis Magazine](https://www.stlmag.com/topics/kae-m-petrin/). I also served on the [St. Louis Pro chapter](http://www.stlspj.com/about/) of the Society of Professional Journalists’s board of directors as secretary and a finance committee member from 2017 to 2023.
 
 While working in Missouri and Illinois, I also produced freelance investigations, breaking news, web redesigns, and entertainment criticism, and spent a year in healthcare as a data analyst. Throughout my career in local news I have contributed data analyses and visualizations to reporting that has been recognized by the Education Writers Association, multiple chapters of the Society for Professional Journalists, the Missouri Broadcaster Association, and regional Edward R. Murrow Awards.
+
+<div class="activities">
+{% for pub in site.data.interviews %}
+    {% if pub.show_flag == "TRUE" %}
+        {% if pub.link %}
+            <h3><a href="{{ pub.link }}">{{ pub.title }}</a></h3>
+        {% else %}
+            <h3>{{ pub.title }}</h3>
+        {% endif %}
+        <h6><em>With {{pub.event}} on {{ pub.date }}</em></h6>
+    {% endif %}
+{% endfor %}
+</div>
