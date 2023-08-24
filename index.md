@@ -15,6 +15,8 @@ Previously, as a digital reporter at [St. Louis Public Radio](https://news.stlpu
 
 While working in Missouri and Illinois, I also produced freelance investigations, breaking news, web redesigns, and entertainment criticism, and spent a year in healthcare as a data analyst. Throughout my career in local news I have contributed data analyses and visualizations to reporting that has been recognized by the Education Writers Association, multiple chapters of the Society for Professional Journalists, the Missouri Broadcaster Association, and regional Edward R. Murrow Awards.
 
+<h1>What I've been up to</h1>
+
 <div class="activities">
 {% for pub in site.data.interviews %}
     {% if pub.show_flag == "TRUE" %}
