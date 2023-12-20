@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Portfolio"
-    url: https://authory.com/KaePetrin
+    url: /portfolio/
   - title: "Activities"
     url: /activities/
   - title: "Speaking"

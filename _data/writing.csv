@@ -1,4 +1,5 @@
 show_flag,title,type,event,year,organization,notes,url,hidden_notes
+TRUE,Data Crimes of 2023: The worst things we did to process education data this year,Documentation,Data Team Dataviz Blog,2023,Chalkbeat,,https://dataviz.chalkbeat.org/2023/12/19/data-crimes-2023.html,
 TRUE,Tips for navigating uncertain gender identity during breaking news,Best Practices,Industry Resources,2023,Trans Journalists Association,One of several co-authors on organizational guidance.,https://www.transjournalists.org/article-self-identification-explainer/,
 TRUE,Covering trans issues well just means doing journalism well,Best Practices,Industry Resources,2023,Source,,https://source.opennews.org/articles/covering-trans-issues-well-doing-journalism-well/,
 TRUE,Showing what's not there: How to responsibly visualize flawed data — and when to not,Best Practices,Data Team Dataviz Blog,2023,Chalkbeat,,https://dataviz.chalkbeat.org/2023/09/26/bad-data-viz-solutions.html,
