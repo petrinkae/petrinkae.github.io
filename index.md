@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I'm a data & graphics reporter on [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/) team, where I collaborate with local reporters to tell data-driven stories about education. Occasionally I work with [Votebeat](https://www.votebeat.org/), as well. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/KaePetrin). I also do part-time, project-based data analysis and viz for the [Mississippi River Basin Ag & Water Desk](https://agwaterdesk.org/).
+I'm a data & graphics reporter on [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/) team, where I collaborate with local reporters to tell data-driven stories about education. Occasionally I work with [Votebeat](https://www.votebeat.org/), as well. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/KaePetrin).
 
 In 2020, I cofounded the [Trans Journalists Association](https://transjournalists.org/) with several dozen other journalists; I have since run many of its internal operations and directed the organization's development from a grassroots group to an incorporated nonprofit. I currently serve as board president and a volunteer Executive Director as we work to establish funding.
 
