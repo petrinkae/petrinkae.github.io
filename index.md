@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I'm a data & graphics reporter on [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/) team, where I collaborate with local reporters to tell data-driven stories about education. Occasionally I work with [Votebeat](https://www.votebeat.org/), as well. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/KaePetrin).
+I'm a data & graphics reporter on [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/) team, where I collaborate with local reporters to tell data-driven stories about education. Occasionally I work with [Votebeat](https://www.votebeat.org/) and [Healthbeat](https://www.healthbeat.org/), as well. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/KaePetrin). 
 
 In 2020, I cofounded the [Trans Journalists Association](https://transjournalists.org/) with several dozen other journalists; I have since run many of its internal operations and directed the organization's development to an incorporated grassroots nonprofit. I currently serve as board president and a volunteer Executive Director as we work to establish funding.
 
@@ -18,14 +18,14 @@ While working in Missouri and Illinois, I also produced freelance investigations
 <h1>What I've been up to</h1>
 
 <div class="activities">
-{% for pub in site.data.interviews %}
-    {% if pub.show_flag == "TRUE" %}
-        {% if pub.link %}
-            <h3><a href="{{ pub.link }}">{{ pub.title }}</a></h3>
+{% for pub in site.data.combined %}
+    {% if pub.page == "Interviews" and pub.show_flag == "TRUE" %}
+        {% if pub.url %}
+            <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
             <h3>{{ pub.title }}</h3>
         {% endif %}
-        <h6><em>With {{pub.event}} on {{ pub.date }}</em></h6>
+        <h6><em>With {{ pub.organization }} on {{ pub.start_date }}</em></h6>
     {% endif %}
 {% endfor %}
 </div>

@@ -8,7 +8,7 @@ permalink: /speaking/
 ## Workshops
 
 <div class="activities">
-{% for pub in site.data.speaking %}
+{% for pub in site.data.combined %}
     {% if pub.type == "Workshop" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
@@ -16,7 +16,7 @@ permalink: /speaking/
             <h3>{{ pub.title }}</h3>
         {% endif %}
         <h4>{{ pub.event }}</h4>
-        <h6><em>For {{pub.organization}} in {{ pub.year }}</em></h6>
+        <h6><em>For {{pub.organization}} in {{ pub.start_date }}</em></h6>
         <p>{{ pub.notes }}</p>
     {% endif %}
 {% endfor %}
@@ -25,7 +25,7 @@ permalink: /speaking/
 ## Presentations
 
 <div class="activities">
-{% for pub in site.data.speaking %}
+{% for pub in site.data.combined %}
     {% if pub.type == "Presentation" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
@@ -33,7 +33,7 @@ permalink: /speaking/
             <h3>{{ pub.title }}</h3>
         {% endif %}
         <h4>{{ pub.event }}</h4>
-        <h6><em>For {{pub.organization}} in {{ pub.year }}</em></h6>
+        <h6><em>For {{pub.organization}} in {{ pub.start_date }}</em></h6>
         <p>{{ pub.notes }}</p>
     {% endif %}
 {% endfor %}
@@ -42,7 +42,7 @@ permalink: /speaking/
 ## Panels
 
 <div class="activities">
-{% for pub in site.data.speaking %}
+{% for pub in site.data.combined %}
     {% if pub.type == "Panel" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
@@ -50,7 +50,7 @@ permalink: /speaking/
             <h3>{{ pub.title }}</h3>
         {% endif %}
         <h4>{{ pub.event }}</h4>
-        <h6><em>For {{pub.organization}} in {{ pub.year }}</em></h6>
+        <h6><em>For {{pub.organization}} in {{ pub.start_date }}</em></h6>
         <p>{{ pub.notes }}</p>
     {% endif %}
 {% endfor %}
@@ -59,7 +59,7 @@ permalink: /speaking/
 ## Moderation
 
 <div class="activities">
-{% for pub in site.data.speaking %}
+{% for pub in site.data.combined %}
     {% if pub.type == "Moderation" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
@@ -67,7 +67,7 @@ permalink: /speaking/
             <h3>{{ pub.title }}</h3>
         {% endif %}
         <h4>{{ pub.event }}</h4>
-        <h6><em>For {{pub.organization}} in {{ pub.year }}</em></h6>
+        <h6><em>For {{pub.organization}} in {{ pub.start_date }}</em></h6>
         <p>{{ pub.notes }}</p>
     {% endif %}
 {% endfor %}
