@@ -5,9 +5,9 @@ author_profile: true
 
 ---
 
-I'm a data & graphics reporter on [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/) team, where I collaborate with local reporters to tell data-driven stories about education. Occasionally I work with [Votebeat](https://www.votebeat.org/) and [Healthbeat](https://www.healthbeat.org/), as well. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/KaePetrin). 
+I'm a data & graphics reporter for Civic News Company, where I collaborate with local reporters at [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/), [Votebeat](https://www.votebeat.org/) and [Healthbeat](https://www.healthbeat.org/) to tell data-driven stories about education, voting rights, and public health. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/PetrinKae). 
 
-In 2020, I cofounded the [Trans Journalists Association](https://transjournalists.org/) with several dozen other journalists; I have since run many of its internal operations and directed the organization's development to an incorporated grassroots nonprofit. I currently serve as board president and a volunteer Executive Director as we work to establish funding.
+In 2020, I cofounded the [Trans Journalists Association](https://transjournalists.org/) with several dozen other journalists; I have since run many of its internal operations and directed the organization's development to an incorporated grassroots nonprofit. I currently serve as board treasurer and part-time co-executive director.
 
 I present on queer and trans coverage best practices, data reporting and visualization tools, and the intersections of these topics at universities, industry conferences, custom-designed workshops, and newsrooms around the U.S. 
 
@@ -19,7 +19,7 @@ While working in Missouri and Illinois, I also produced freelance investigations
 
 <div class="activities">
 {% for pub in site.data.combined %}
-    {% if pub.page == "Interviews" and pub.show_flag == "TRUE" %}
+    {% if pub.page == "Updates" and pub.show_flag == "TRUE" %}
         {% if pub.url %}
             <h3><a href="{{ pub.url }}">{{ pub.title }}</a></h3>
         {% else %}
