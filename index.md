@@ -5,7 +5,7 @@ author_profile: true
 
 ---
 
-I'm a data & graphics reporter for Civic News Company, where I collaborate with local reporters at [Chalkbeat](https://chalkbeat.org/)'s [data visuals](https://dataviz.chalkbeat.org/), [Votebeat](https://www.votebeat.org/) and [Healthbeat](https://www.healthbeat.org/) to tell data-driven stories about education, voting rights, and public health. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/PetrinKae). 
+I'm a [data & graphics reporter](https://dataviz.chalkbeat.org/) for Civic News Company, where I collaborate with local reporters at [Chalkbeat](https://chalkbeat.org/), [Votebeat](https://www.votebeat.org/), and [Healthbeat](https://www.healthbeat.org/) to tell data-driven stories about education, voting rights, and public health. Check out my [recent Chalkbeat bylines](https://www.chalkbeat.org/authors/kae-petrin) and my [broader portfolio](https://authory.com/PetrinKae). 
 
 In 2020, I cofounded the [Trans Journalists Association](https://transjournalists.org/) with several dozen other journalists; I have since run many of its internal operations and directed the organization's development to an incorporated grassroots nonprofit. I currently serve as board treasurer and part-time co-executive director.
 
