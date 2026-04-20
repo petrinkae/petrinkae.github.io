@@ -3,3 +3,5 @@ Right now, I am a full-time data journalist. However, I take consulting work on 
 Learn more about my services.
 * [General consulting](../posts/consulting)
 * [Workshops and teaching](../posts/workshops)
+
+Contact me [via email](mailto:datajanitortrainings@gmail.com).
