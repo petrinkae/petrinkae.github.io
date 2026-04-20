@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Services on K Petrin</title>
+		<link>//localhost:1313/en/tags/services/</link>
+		<description>Recent content in Services on K Petrin</description>
+		<generator>Hugo -- 0.155.3</generator>
+		<language>en-us</language>
+		<copyright>K Petrin</copyright>
+		<lastBuildDate>Tue, 24 Feb 2026 20:06:06 +0530</lastBuildDate>
+		<atom:link href="//localhost:1313/en/tags/services/index.xml" rel="self" type="application/rss+xml" />
+		
+    	<image>
+			<title>K Petrin</title>
+    	  	<url>//localhost:1313/images/polygon_3.png</url>
+    	  	<link>//localhost:1313/images/polygon_3.png</link>
+    	</image>
+		
+		<item>
+			<title>Consulting</title>
+			<link>//localhost:1313/en/posts/consulting/</link>
+			<pubDate>Tue, 24 Feb 2026 20:06:06 +0530</pubDate><author>petrinkae</author><guid>//localhost:1313/en/posts/consulting/</guid>
+			<description><![CDATA[Learn more about my work.]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Are you looking for rigorous, well-documented data analysis that leaves nothing up to chance? Do you need human creativity to solve complex problems in data categorization or visual storytelling? Are you trying to design an internal workplace systems or find new ways to engage your community? Do you just need basic advice on some gender-related policies?</p>
+<p>If yes, consider collaborating with me.</p>
+<p>I&rsquo;m always looking for challenging, interesting consulting work that makes a difference.</p>
+<p>Here&rsquo;s a bit more about what I&rsquo;ve done in my capacity as a nonprofit executive director, data journalist, health care economics analyst, and independent creative:</p>
+<ul>
+<li>written and taught in-person and online workshops</li>
+<li>advised on media analysis codebooks</li>
+<li>planned newsroom trainings and events</li>
+<li>written coverage guidance</li>
+<li>reviewed trans-inclusive workplace policy proposals</li>
+<li>developed employee and source audit data collection procedures</li>
+<li>written grants for LGBTQ+ nonprofit causes</li>
+</ul>
+<p>I also have a suite of flexible web development and data analysis skills. These include:</p>
+<ul>
+<li>visual storytelling</li>
+<li>infographics</li>
+<li>business analytics</li>
+<li>budget review</li>
+<li>fact-checks</li>
+<li>health care analytics</li>
+<li>data report quality assurance</li>
+</ul>
+<p>Thinking we might work well together? <a href="mailto:datajanitortrainings@gmail.com">Please reach out</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Workshops</title>
+			<link>//localhost:1313/en/posts/workshops/</link>
+			<pubDate>Tue, 24 Feb 2026 20:06:06 +0530</pubDate><author>petrinkae</author><guid>//localhost:1313/en/posts/workshops/</guid>
+			<description><![CDATA[I&#39;ve taught workshops on data tools, LGBTQ+ communities reporting, and more.]]></description><content type="text/html" mode="escaped"><![CDATA[<p>I custom-design short presentations and hands-on workshops for organizations ranging from journalism membership organizations to international newsrooms to LGBTQ+ community organizations. I also work one-on-one with anyone looking to build critical data and information vetting skills.</p>
+<p>Past workshops have included:</p>
+<ul>
+<li>Introductions to solutions journalism</li>
+<li>Data journalism storytelling</li>
+<li>Intermediate to advanced Excel</li>
+<li>Intro to SQL for storytelling</li>
+<li>Critical data exploration with spreadsheets</li>
+<li>Data cleaning</li>
+<li>Building national stories from local datasets</li>
+<li>Working with bad and limited data</li>
+<li>In-depth investigations of property developers and landlords</li>
+<li>Covering transgender communities on your beat</li>
+<li>Transgender 101 for workplaces</li>
+</ul>
+<p>I&rsquo;ve contributed to open source textbooks like <a href="https://palewi.re/docs/first-python-notebook/index.html">First Python Notebook</a> and have a forthcoming massive open online course with <a href="https://openvisualizationacademy.org/">Open Visualization Academy</a>.</p>
+<p>I&rsquo;m an experienced moderator, and I love speaking with students.</p>
+<p>Think we might work well together? <a href="mailto:datajanitortrainings@gmail.com">Please reach out</a>.</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

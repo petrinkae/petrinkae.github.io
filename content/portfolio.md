@@ -1,0 +1,1 @@
+<iframe referrerpolicy="origin" scrolling="no" src="https://authory.com/petrinkae/embed?theme=light&numItems=6&mode=compact&showSocialMedia=false&showHighlight=false&useCover=false" width="100%" height="623px" style="border-radius:18px;border:1px solid #DDDFE3"></iframe>

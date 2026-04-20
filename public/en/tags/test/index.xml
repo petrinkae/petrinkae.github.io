@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Test on K Petrin</title>
+		<link>//localhost:1313/en/tags/test/</link>
+		<description>Recent content in Test on K Petrin</description>
+		<generator>Hugo -- 0.155.3</generator>
+		<language>en-us</language>
+		<copyright>K Petrin</copyright>
+		<lastBuildDate>Fri, 20 Oct 2023 20:06:06 +0530</lastBuildDate>
+		<atom:link href="//localhost:1313/en/tags/test/index.xml" rel="self" type="application/rss+xml" />
+		
+    	<image>
+			<title>K Petrin</title>
+    	  	<url>//localhost:1313/images/polygon_3.png</url>
+    	  	<link>//localhost:1313/images/polygon_3.png</link>
+    	</image>
+		
+		<item>
+			<title>Firstpost test</title>
+			<link>//localhost:1313/en/posts/firstpost/</link>
+			<pubDate>Fri, 20 Oct 2023 20:06:06 +0530</pubDate><author>petrinkae</author><guid>//localhost:1313/en/posts/firstpost/</guid>
+			<description><![CDATA[This is a test of a new post]]></description><content type="text/html" mode="escaped"><![CDATA[<p>This line is from <code>content/firstpost.md</code>.</p>
+<p><a href="/">Go to home</a></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

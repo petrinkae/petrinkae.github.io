@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>K Petrin</title>
+		<link>//localhost:1313/en/</link>
+		<description>Recent content on K Petrin</description>
+		<generator>Hugo -- 0.155.3</generator>
+		<language>en-us</language>
+		<copyright>K Petrin</copyright>
+		<lastBuildDate>Tue, 24 Feb 2026 20:06:06 +0530</lastBuildDate>
+		<atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+		
+    	<image>
+			<title>K Petrin</title>
+    	  	<url>//localhost:1313/images/polygon_3.png</url>
+    	  	<link>//localhost:1313/images/polygon_3.png</link>
+    	</image>
+		
+		<item>
+			<title>Consulting</title>
+			<link>//localhost:1313/en/posts/consulting/</link>
+			<pubDate>Tue, 24 Feb 2026 20:06:06 +0530</pubDate><author>petrinkae</author><guid>//localhost:1313/en/posts/consulting/</guid>
+			<description><![CDATA[Learn more about my work.]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Are you looking for rigorous, well-documented data analysis that leaves nothing up to chance? Do you need human creativity to solve complex problems in data categorization or visual storytelling? Are you trying to design an internal workplace systems or find new ways to engage your community? Do you just need basic advice on some gender-related policies?</p>
+<p>If yes, consider collaborating with me.</p>
+<p>I&rsquo;m always looking for challenging, interesting consulting work that makes a difference.</p>
+<p>Here&rsquo;s a bit more about what I&rsquo;ve done in my capacity as a nonprofit executive director, data journalist, health care economics analyst, and independent creative:</p>
+<ul>
+<li>written and taught in-person and online workshops</li>
+<li>advised on media analysis codebooks</li>
+<li>planned newsroom trainings and events</li>
+<li>written coverage guidance</li>
+<li>reviewed trans-inclusive workplace policy proposals</li>
+<li>developed employee and source audit data collection procedures</li>
+<li>written grants for LGBTQ+ nonprofit causes</li>
+</ul>
+<p>I also have a suite of flexible web development and data analysis skills. These include:</p>
+<ul>
+<li>visual storytelling</li>
+<li>infographics</li>
+<li>business analytics</li>
+<li>budget review</li>
+<li>fact-checks</li>
+<li>health care analytics</li>
+<li>data report quality assurance</li>
+</ul>
+<p>Thinking we might work well together? <a href="mailto:datajanitortrainings@gmail.com">Please reach out</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Workshops</title>
+			<link>//localhost:1313/en/posts/workshops/</link>
+			<pubDate>Tue, 24 Feb 2026 20:06:06 +0530</pubDate><author>petrinkae</author><guid>//localhost:1313/en/posts/workshops/</guid>
+			<description><![CDATA[I&#39;ve taught workshops on data tools, LGBTQ+ communities reporting, and more.]]></description><content type="text/html" mode="escaped"><![CDATA[<p>I custom-design short presentations and hands-on workshops for organizations ranging from journalism membership organizations to international newsrooms to LGBTQ+ community organizations. I also work one-on-one with anyone looking to build critical data and information vetting skills.</p>
+<p>Past workshops have included:</p>
+<ul>
+<li>Introductions to solutions journalism</li>
+<li>Data journalism storytelling</li>
+<li>Intermediate to advanced Excel</li>
+<li>Intro to SQL for storytelling</li>
+<li>Critical data exploration with spreadsheets</li>
+<li>Data cleaning</li>
+<li>Building national stories from local datasets</li>
+<li>Working with bad and limited data</li>
+<li>In-depth investigations of property developers and landlords</li>
+<li>Covering transgender communities on your beat</li>
+<li>Transgender 101 for workplaces</li>
+</ul>
+<p>I&rsquo;ve contributed to open source textbooks like <a href="https://palewi.re/docs/first-python-notebook/index.html">First Python Notebook</a> and have a forthcoming massive open online course with <a href="https://openvisualizationacademy.org/">Open Visualization Academy</a>.</p>
+<p>I&rsquo;m an experienced moderator, and I love speaking with students.</p>
+<p>Think we might work well together? <a href="mailto:datajanitortrainings@gmail.com">Please reach out</a>.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>//localhost:1313/en/about/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>petrinkae</author><guid>//localhost:1313/en/about/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="about">About<a href="#about" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>I&rsquo;m a data journalist, business and nonprofit leader, and educator focused on media and government accountability. I speak internationally on data and investigative reporting, LGBT communities and transgender rights coverage, and media analysis. You can find my writing in Columbia Journalism Review, the International Journalists’ Network, the Global Investigative Journalism Network, and more.</p>
+<p>Right now, I&rsquo;m a John S. Knight Journalism Fellow in residence at Stanford University for the 2025-26 school year.</p>
+<p>Normally, I&rsquo;m a <a href="https://dataviz.chalkbeat.org/">data &amp; graphics reporter</a> for Civic News Company, where I collaborate with local reporters at <a href="https://chalkbeat.org/">Chalkbeat</a>, <a href="https://www.votebeat.org/">Votebeat</a>, and <a href="https://www.healthbeat.org/">Healthbeat</a> to tell data-driven stories about education, voting rights, and public health. My team writes about our work on our <a href="https://dataviz.chalkbeat.org/">data viz blog</a>. Check out my <a href="https://www.chalkbeat.org/authors/kae-petrin">recent Chalkbeat bylines</a> and my <a href="https://authory.com/PetrinKae">broader portfolio</a>.</p>
+<p>In 2020, I cofounded the <a href="https://transjournalists.org/">Trans Journalists Association</a> with several dozen other journalists; I have since run many of its internal operations and directed the organization&rsquo;s development to an incorporated grassroots nonprofit. I have served in various staff and board roles there. With my leadership, the organization fundraised more than $1 million in two years.</p>
+<p>Previously, as a digital reporter at <a href="https://news.stlpublicradio.org/people/kae-m-petrin">St. Louis Public Radio</a>, I created graphics, built newsroom-wide tools, and covered data-driven stories across beats. Before that, I was an editorial assistant at <a href="https://www.stlmag.com/topics/kae-m-petrin/">St. Louis Magazine</a>. I also served on the <a href="http://www.stlspj.com/about/">St. Louis Pro chapter</a> of the Society of Professional Journalists’s board of directors as secretary and a finance committee member from 2017 to 2023.</p>
+<p>While working in Missouri and Illinois, I also produced freelance investigations, breaking news, web redesigns, and entertainment criticism, and spent a year in healthcare as a data analyst. Throughout my career in local news I have contributed data analyses and visualizations to reporting that has been recognized by the Education Writers Association, LION Local Journalism Awards, multiple chapters of the Society for Professional Journalists, the Missouri Broadcaster Association, and regional Edward R. Murrow Awards.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>//localhost:1313/en/portfolio/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>petrinkae</author><guid>//localhost:1313/en/portfolio/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<iframe referrerpolicy="origin" scrolling="no" src="https://authory.com/petrinkae/embed?theme=light&numItems=6&mode=compact&showSocialMedia=false&showHighlight=false&useCover=false" width="100%" height="623px" style="border-radius:18px;border:1px solid #DDDFE3"></iframe>]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>//localhost:1313/en/services/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>petrinkae</author><guid>//localhost:1313/en/services/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>Right now, I am a full-time data journalist. However, I take consulting work on a case-by-case basis. I&rsquo;m especially interested in opportunities to speak, teach, and lead interactive community-oriented workshops.</p>
+<p>Learn more about my services.</p>
+<ul>
+<li><a href="../posts/consulting">General consulting</a></li>
+<li><a href="../posts/workshops">Workshops and teaching</a></li>
+</ul>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
