@@ -126,6 +126,10 @@ expiryDate = ["expiryDate"]
     enable = true
     thumbnail = '300'
 
+  [caches]
+    [caches.images]
+      dir = ':cacheDir/images'
+
   [params.dateform]
     CopyrightDate = "2006"
     LongDate = "Jan 2, 2006"
