@@ -145,5 +145,67 @@
 ]]></content>
 		</item>
 		
+		<item>
+			<title></title>
+			<link>//localhost:1313/speaking/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>petrinkae</author><guid>//localhost:1313/speaking/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<h1 id="speaking">Speaking<a href="#speaking" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h1>
+<p>I&rsquo;m a frequent moderator, panelist, public speaker, and interactive workshop leader.</p>
+<p>I develop workshops for both youth and adult learners. Most often, I present on data, speaking on specific tools like spreadsheets or thinking through complex problems like working with incomplete data. I&rsquo;ve also led public media trainings on telling your own story.</p>
+<p>Past partners have included the Open Visualization Academy, Education Writers Association, and the Reynolds Journalism Institute, as well as multiple investigative journalism associations. I&rsquo;m also a contributor and recurring teacher for <a href="https://palewi.re/docs/first-python-notebook/concat.html">First Python Notebook</a>.</p>
+<h2 id="2025-highlights">2025 Highlights<a href="#2025-highlights" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li><strong>Keynote:</strong> Reporting on LGBTQ+ data under autocracy — U of Miami | Computation + Journalism</li>
+<li><strong>Documentary:</strong> <a href="https://www.heightenedscrutinydoc.com/">Heightened Scrutiny</a></li>
+<li>Investigating LGBTQ+ rights internationally — GIJN | Global Investigative Journalism Conference</li>
+<li>Changing trans news narratives — The Objective | Trans Media Convening</li>
+<li>Fighting censorship of gov’t data, moving beyond reliance on federal collections — OpenNews | SRCCON</li>
+<li>Pride is local: How to report on LGBTQ+ stories for home audiences — NPCJI | Webinar</li>
+<li>How do we know when data is “right”? — EWA | National Convention</li>
+<li>Covering attacks on trans rights — EWA | National Convention</li>
+<li>How to cover trans communities well — New England Scholastic Press Association Boston | Conference</li>
+<li>How to find education data — EWA | Diving Into Data</li>
+<li>Virtual town halls with students at The New School and in LOOKOUT’s Reporting as Resistance class</li>
+</ul>
+<h2 id="2024-highlights">2024 Highlights<a href="#2024-highlights" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>Writing articles with heavy database use — ASJA | 2024 Virtual Conference</li>
+<li>Covering LGBTQ+ students in schools — NLGJA | National Convention (for EWA)</li>
+<li>Reporting on queer policies, legislation and politics — IRE | Election Webinar Series</li>
+<li>The Do&rsquo;s and Don&rsquo;ts of Covering Trans Issues — EWA | National Convention</li>
+<li>How to cover trans communities sensitively and accurately — SPJ Indiana, SPJ Region 10</li>
+<li>The power of knowing your (data&rsquo;s) weaknesses — IRE | NICAR</li>
+<li>Trans data: How we can do better — IRE | NICAR</li>
+<li>How to cover trans issues well in an election year — Reynolds Journalism Institute | multiple venues</li>
+<li>Class visits to Columbia University and CUNY</li>
+</ul>
+<h2 id="2023-highlights">2023 Highlights<a href="#2023-highlights" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+      stroke-linecap="round" stroke-linejoin="round" class="feather">
+      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
+      <line x1="8" y1="12" x2="16" y2="12"></line>
+   </svg></a></h2>
+<ul>
+<li>How to use bad and limited LGBTQ+ data responsibly — OpenNews | SRCCON</li>
+<li>Shop Talk: Visual Storytelling — Education Writers Association | National Seminar</li>
+<li>Trans and GNC data sources —IRE | AccessFest</li>
+<li>Envisioning high-impact coverage of anti-trans legislation — IRE | AccessFest</li>
+<li>Framing and Facts: Getting Trans Coverage Right — NLGJA | National Convention</li>
+<li>How to Cover Trans Issues Well — Society of Professional Journalists | Region 10 Conference</li>
+</ul>
+]]></content>
+		</item>
+		
 	</channel>
 </rss>
