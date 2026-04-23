@@ -36,4 +36,6 @@ I've contributed to open source textbooks like [First Python Notebook](https://p
 
 I'm an experienced moderator, and I love speaking with students.
 
-Think we might work well together? [Please reach out](mailto:datajanitortrainings@gmail.com). 
+{{< admonition type=tip title="Contact me" >}}
+Do I have skills that you need? [Please reach out](mailto:datajanitortrainings@gmail.com). 
+{{< /admonition >}}

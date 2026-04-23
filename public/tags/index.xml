@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+	<channel>
+		<title>Tags on K Petrin</title>
+		<link>//localhost:1313/tags/</link>
+		<description>Recent content in Tags on K Petrin</description>
+		<generator>Hugo -- 0.155.3</generator>
+		<language>en</language>
+		<copyright>K Petrin</copyright>
+		<lastBuildDate>Tue, 24 Feb 2026 20:06:06 +0530</lastBuildDate>
+		<atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+		
+    	<image>
+			<title>K Petrin</title>
+    	  	<url>//localhost:1313/images/polygon_3.png</url>
+    	  	<link>//localhost:1313/images/polygon_3.png</link>
+    	</image>
+		
+		<item>
+			<title>Services</title>
+			<link>//localhost:1313/tags/services/</link>
+			<pubDate>Tue, 24 Feb 2026 20:06:06 +0530</pubDate><author>petrinkae</author><guid>//localhost:1313/tags/services/</guid>
+			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[]]></content>
+		</item>
+		
+	</channel>
+</rss>

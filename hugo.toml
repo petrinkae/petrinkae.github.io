@@ -5,8 +5,8 @@
 # Open Issue or Pull Request at https://github.com/1bl4z3r/hermit-V2
 
 baseURL = "example.com"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
+# defaultContentLanguage = "en"
+# defaultContentLanguageInSubdir = true
 # disableKinds = ['taxonomy', 'term']
 theme = "hermit-v2"
 enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
@@ -28,7 +28,7 @@ enableRobotsTXT = true ## set to true to enable inbuilt robots.txt
 #      homeSubtitle = "CHANGE ME"
 #    weight = 3
  
-languageCode = "en-us"
+# languageCode = "en-us"
 
 title = "K Petrin"
 # enableGitInfo = true

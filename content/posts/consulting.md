@@ -41,4 +41,6 @@ I also have a suite of flexible web development and data analysis skills. These 
   - health care analytics
   - data report quality assurance
 
-Thinking we might work well together? [Please reach out](mailto:datajanitortrainings@gmail.com). 
+{{< admonition type=tip title="Contact me" >}}
+Do I have skills that you need? [Please reach out](mailto:datajanitortrainings@gmail.com). 
+{{< /admonition >}}

@@ -1,11 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>//localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2025-03-12T20:30:30+05:30</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/posts/consulting/</loc>
+    <lastmod>2025-03-12T20:30:30+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2025-03-12T20:30:30+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2025-03-12T20:30:30+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/services/</loc>
+    <lastmod>2025-03-12T20:30:30+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2025-03-12T20:30:30+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/workshops/</loc>
+    <lastmod>2025-03-12T20:30:30+05:30</lastmod>
+  </url><url>
+    <loc>//localhost:1313/about/</loc>
+  </url><url>
+    <loc>//localhost:1313/portfolio/</loc>
+  </url><url>
+    <loc>//localhost:1313/services/</loc>
+  </url>
+</urlset>
